@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Assam_Mc",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "OurAssam.aternos.me",
-    "port": 37351,
-    "version": "",
+    "ip": "AssamMc.aternos.me",
+    "port": 30459,
+    "version": "1.13.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Checkout the AssamMc rules and instructions on the whatshapp channel!!"
       ]
     },
     "chat-log": true,
